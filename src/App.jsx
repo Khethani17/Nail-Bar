@@ -1,8 +1,8 @@
-import Navbar from "./components/navbar"
-import Hero from "./components/Hero";
-import Services from "./components/Services";
-import BookAppointment from "./components/BookAppointment";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar"
+import Hero from "./Components/Hero";
+import Services from "./Components/Services";
+import BookAppointment from "./Components/BookAppointment";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
