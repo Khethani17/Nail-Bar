@@ -2,7 +2,6 @@ import ServiceCard from "./ServiceCard";
 import service1 from "../assets/service1.jpeg";
 import service2 from "../assets/service2.jpeg";
 import service3 from "../assets/service3.jpeg";
-import BookAppointment from "./BookAppointment";
 
 const services = [
   {
